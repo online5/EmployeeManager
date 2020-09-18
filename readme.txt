@@ -1,11 +1,11 @@
 Details about the project Employee Management System.
 Made by Deepak Patil
-Date: 13 Wed 2020
+Date: 13 Wed 2020 // Date of completion
 
 To run this project use command gcc Main.c helper.c -o myexe and then run ./myexe
 
 
-Authentication required while running the executable
+Authentication required while running the executable use the following details
 User ID: Deepak_121
 Password: Online121
 (Take care of Case please)
@@ -15,8 +15,8 @@ Description:
   store the information about employees.
   I chose Doubly circular list to to ease the access the nodes(Individual Employee details) in and
   efficent manner and also to facilitate periodic access.
-  We can also traverse the records in Bidirectional manner to improve the execution speed of out application.
-  This is achieved via mainting two pointer at each end that is starting as well as ending and travering the linked list both direction.
+  We can also traverse the records in bidirectional manner to improve the execution speed of out application.
+  This is achieved via maintaning two pointer at each end that is starting as well as ending and travering the linked list both direction.
   Employee details like Name, Age, ID, Salary, Experience.. are stored.
 
 Functionality provided:
@@ -43,3 +43,6 @@ CheckEmp-> Take Employee id ,Start, End point of our linked list and return TRUE
 
 7: ModifyingInformation( ModifyingInformation)-> This method provides Functionality to update fields of our employee and change them as
   per requirements.
+  
+8: Generating Employee Information( Generate employee info)-> This method is used to generate a file which contains the current information about the employees
+  in our system.
