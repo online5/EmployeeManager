@@ -1,0 +1,8 @@
+Details of Employees.
+Current date and time: 18-Sep-2020 19:02:41
+-------------------------------------------------------------------------
+Emp_id   EmployeeName   Age   Gender   ProjectName   EmployeeSalary   Experience
+    67         Deepak    34        M           Java        34000.000           34
+    56           Amit    12        F         python        35000.000           34
+    12         Deepak    36        F  JavaDeveloper        56000.000            8
+-------------------------------------------------------------------------

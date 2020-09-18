@@ -1,0 +1,418 @@
+
+Have patience while reading and see the operation corresponding to the given input option number.
+
+deepak@deepak-vostro-15-3568:~/Desktop/LogicBatch/Assign_43$ gcc Main.c helper.c -o myexe
+deepak@deepak-vostro-15-3568:~/Desktop/LogicBatch/Assign_43$ ./myexe
+Please Enter the following credentials.
+UserName: Deepak_121
+Password: Online121
+Welcome to our Employee Management System.
+Menu
+1:InsertFirst
+2:InsertLast
+3:InsertAtPos
+4:DeleteFirst
+5:DeleteAtPos
+6:DeleteLast
+7:Display
+8:RecordsSize
+9:CheckEmpoyeeStatus
+10:DisplayEmployeeDetails
+11:UpdateEmployeeInformation.
+12:GetEmployeeName
+13:Generate Employee info.
+1
+
+Enter Emp_id: 23
+Enter Age: 34
+Enter Gender.
+M
+Enter Experience: 3
+Enter Salary: 450000
+Enter Name: Deepak
+Enter Project Name.
+Autommation
+
+Want to display menu again? 1:Yes 0: Exit1
+Menu
+1:InsertFirst
+2:InsertLast
+3:InsertAtPos
+4:DeleteFirst
+5:DeleteAtPos
+6:DeleteLast
+7:Display
+8:RecordsSize
+9:CheckEmpoyeeStatus
+10:DisplayEmployeeDetails
+11:UpdateEmployeeInformation.
+12:GetEmployeeName
+13:Generate Employee info.
+1
+
+Enter Emp_id: 12
+Enter Age: 36
+Enter Gender.
+F
+Enter Experience: 8
+Enter Salary: 56000
+Enter Name: Deepak
+Enter Project Name.
+JavaDeveloper
+
+Want to display menu again? 1:Yes 0: Exit1
+Menu
+1:InsertFirst
+2:InsertLast
+3:InsertAtPos
+4:DeleteFirst
+5:DeleteAtPos
+6:DeleteLast
+7:Display
+8:RecordsSize
+9:CheckEmpoyeeStatus
+10:DisplayEmployeeDetails
+11:UpdateEmployeeInformation.
+12:GetEmployeeName
+13:Generate Employee info.
+1
+
+Enter Emp_id: 67
+Enter Age: 34
+Enter Gender.
+M
+Enter Experience: 34
+Enter Salary: 34000
+Enter Name: Deeepka
+Enter Project Name.
+Java
+
+Want to display menu again? 1:Yes 0: Exit1
+Menu
+1:InsertFirst
+2:InsertLast
+3:InsertAtPos
+4:DeleteFirst
+5:DeleteAtPos
+6:DeleteLast
+7:Display
+8:RecordsSize
+9:CheckEmpoyeeStatus
+10:DisplayEmployeeDetails
+11:UpdateEmployeeInformation.
+12:GetEmployeeName
+13:Generate Employee info.
+7
+
+Emp_id   EmployeeName   Age   Gender   Project Name   EmployeeSalary   Experience
+    67        Deeepka    34        M           Java        34000.000           34
+    12         Deepak    36        F  JavaDeveloper        56000.000            8
+    23         Deepak    34        M    Autommation       450000.000            3
+
+Want to display menu again? 1:Yes 0: Exit1
+Menu
+1:InsertFirst
+2:InsertLast
+3:InsertAtPos
+4:DeleteFirst
+5:DeleteAtPos
+6:DeleteLast
+7:Display
+8:RecordsSize
+9:CheckEmpoyeeStatus
+10:DisplayEmployeeDetails
+11:UpdateEmployeeInformation.
+12:GetEmployeeName
+13:Generate Employee info.
+13
+
+Do you wish to generate employee information file?(1: Yes 0:No)1
+Data Successfully written in Employee.txt
+
+Want to display menu again? 1:Yes 0: Exit1
+Menu
+1:InsertFirst
+2:InsertLast
+3:InsertAtPos
+4:DeleteFirst
+5:DeleteAtPos
+6:DeleteLast
+7:Display
+8:RecordsSize
+9:CheckEmpoyeeStatus
+10:DisplayEmployeeDetails
+11:UpdateEmployeeInformation.
+12:GetEmployeeName
+13:Generate Employee info.
+9
+
+Enter Employee id to check status.
+12
+Employee with [12] ID IS present
+.
+Want to display menu again? 1:Yes 0: Exit1
+Menu
+1:InsertFirst
+2:InsertLast
+3:InsertAtPos
+4:DeleteFirst
+5:DeleteAtPos
+6:DeleteLast
+7:Display
+8:RecordsSize
+9:CheckEmpoyeeStatus
+10:DisplayEmployeeDetails
+11:UpdateEmployeeInformation.
+12:GetEmployeeName
+13:Generate Employee info.
+12
+
+Enter Employee id.
+12
+Employee name is Deepak
+Want to display menu again? 1:Yes 0: Exit1
+Menu
+1:InsertFirst
+2:InsertLast
+3:InsertAtPos
+4:DeleteFirst
+5:DeleteAtPos
+6:DeleteLast
+7:Display
+8:RecordsSize
+9:CheckEmpoyeeStatus
+10:DisplayEmployeeDetails
+11:UpdateEmployeeInformation.
+12:GetEmployeeName
+13:Generate Employee info.
+8
+
+Total Number of Records are 3
+
+Want to display menu again? 1:Yes 0: Exit1
+Menu
+1:InsertFirst
+2:InsertLast
+3:InsertAtPos
+4:DeleteFirst
+5:DeleteAtPos
+6:DeleteLast
+7:Display
+8:RecordsSize
+9:CheckEmpoyeeStatus
+10:DisplayEmployeeDetails
+11:UpdateEmployeeInformation.
+12:GetEmployeeName
+13:Generate Employee info.
+7
+
+Emp_id   EmployeeName   Age   Gender   Project Name   EmployeeSalary   Experience
+    67        Deeepka    34        M           Java        34000.000           34
+    12         Deepak    36        F  JavaDeveloper        56000.000            8
+    23         Deepak    34        M    Autommation       450000.000            3
+
+Want to display menu again? 1:Yes 0: Exit1
+Menu
+1:InsertFirst
+2:InsertLast
+3:InsertAtPos
+4:DeleteFirst
+5:DeleteAtPos
+6:DeleteLast
+7:Display
+8:RecordsSize
+9:CheckEmpoyeeStatus
+10:DisplayEmployeeDetails
+11:UpdateEmployeeInformation.
+12:GetEmployeeName
+13:Generate Employee info.
+3
+
+Enter Emp_id: 56
+Enter Age: 12
+Enter Gender.
+F
+Enter Experience: 34
+Enter Salary: 35000
+Enter Name: Amit
+Enter Project Name.
+python
+Enter Position to which to enter.
+2
+
+Want to display menu again? 1:Yes 0: Exit1
+Menu
+1:InsertFirst
+2:InsertLast
+3:InsertAtPos
+4:DeleteFirst
+5:DeleteAtPos
+6:DeleteLast
+7:Display
+8:RecordsSize
+9:CheckEmpoyeeStatus
+10:DisplayEmployeeDetails
+11:UpdateEmployeeInformation.
+12:GetEmployeeName
+13:Generate Employee info.
+7
+
+Emp_id   EmployeeName   Age   Gender   Project Name   EmployeeSalary   Experience
+    67        Deeepka    34        M           Java        34000.000           34
+    56           Amit    12        F         python        35000.000           34
+    12         Deepak    36        F  JavaDeveloper        56000.000            8
+    23         Deepak    34        M    Autommation       450000.000            3
+
+Want to display menu again? 1:Yes 0: Exit1
+Menu
+1:InsertFirst
+2:InsertLast
+3:InsertAtPos
+4:DeleteFirst
+5:DeleteAtPos
+6:DeleteLast
+7:Display
+8:RecordsSize
+9:CheckEmpoyeeStatus
+10:DisplayEmployeeDetails
+11:UpdateEmployeeInformation.
+12:GetEmployeeName
+13:Generate Employee info.
+8
+
+Total Number of Records are 4
+
+Want to display menu again? 1:Yes 0: Exit1
+Menu
+1:InsertFirst
+2:InsertLast
+3:InsertAtPos
+4:DeleteFirst
+5:DeleteAtPos
+6:DeleteLast
+7:Display
+8:RecordsSize
+9:CheckEmpoyeeStatus
+10:DisplayEmployeeDetails
+11:UpdateEmployeeInformation.
+12:GetEmployeeName
+13:Generate Employee info.
+6
+
+
+Want to display menu again? 1:Yes 0: Exit1
+Menu
+1:InsertFirst
+2:InsertLast
+3:InsertAtPos
+4:DeleteFirst
+5:DeleteAtPos
+6:DeleteLast
+7:Display
+8:RecordsSize
+9:CheckEmpoyeeStatus
+10:DisplayEmployeeDetails
+11:UpdateEmployeeInformation.
+12:GetEmployeeName
+13:Generate Employee info.
+7
+
+Emp_id   EmployeeName   Age   Gender   Project Name   EmployeeSalary   Experience
+    67        Deeepka    34        M           Java        34000.000           34
+    56           Amit    12        F         python        35000.000           34
+    12         Deepak    36        F  JavaDeveloper        56000.000            8
+
+Want to display menu again? 1:Yes 0: Exit1
+Menu
+1:InsertFirst
+2:InsertLast
+3:InsertAtPos
+4:DeleteFirst
+5:DeleteAtPos
+6:DeleteLast
+7:Display
+8:RecordsSize
+9:CheckEmpoyeeStatus
+10:DisplayEmployeeDetails
+11:UpdateEmployeeInformation.
+12:GetEmployeeName
+13:Generate Employee info.
+13
+
+Do you wish to generate employee information file?(1: Yes 0:No)1
+Data Successfully written in Employee.txt
+
+Want to display menu again? 1:Yes 0: Exit1
+Menu
+1:InsertFirst
+2:InsertLast
+3:InsertAtPos
+4:DeleteFirst
+5:DeleteAtPos
+6:DeleteLast
+7:Display
+8:RecordsSize
+9:CheckEmpoyeeStatus
+10:DisplayEmployeeDetails
+11:UpdateEmployeeInformation.
+12:GetEmployeeName
+13:Generate Employee info.
+11
+
+Update Employee information.
+Enter Employee id.
+67
+Which of the following fields do you wish to update.
+1:Employee Name,	2:Employee Age	3:Employee Salary
+4:Experience years
+1
+Enter New Name.
+Deepak
+Data Successfully modified.
+Do you want to continue modifiying 1:Yes 0:No.
+0
+
+Want to display menu again? 1:Yes 0: Exit1
+Menu
+1:InsertFirst
+2:InsertLast
+3:InsertAtPos
+4:DeleteFirst
+5:DeleteAtPos
+6:DeleteLast
+7:Display
+8:RecordsSize
+9:CheckEmpoyeeStatus
+10:DisplayEmployeeDetails
+11:UpdateEmployeeInformation.
+12:GetEmployeeName
+13:Generate Employee info.
+7
+
+Emp_id   EmployeeName   Age   Gender   Project Name   EmployeeSalary   Experience
+    67         Deepak    34        M           Java        34000.000           34
+    56           Amit    12        F         python        35000.000           34
+    12         Deepak    36        F  JavaDeveloper        56000.000            8
+
+Want to display menu again? 1:Yes 0: Exit1
+Menu
+1:InsertFirst
+2:InsertLast
+3:InsertAtPos
+4:DeleteFirst
+5:DeleteAtPos
+6:DeleteLast
+7:Display
+8:RecordsSize
+9:CheckEmpoyeeStatus
+10:DisplayEmployeeDetails
+11:UpdateEmployeeInformation.
+12:GetEmployeeName
+13:Generate Employee info.
+13
+
+Do you wish to generate employee information file?(1: Yes 0:No)1
+Data Successfully written in Employee.txt
+
+Want to display menu again? 1:Yes 0: Exit0
+Thank you for using our system, have a great day ahead.....
