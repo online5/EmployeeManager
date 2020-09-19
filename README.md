@@ -8,7 +8,9 @@ To run this project use command gcc Main.c helper.c -o myexe and then run ./myex
 There are three files 
 
 1: Main.c   (Entry point of our application)
+
 2: Helper.c (Consists of all the functions/services required by our application)
+
 3: header.h (Inclusion file for header files, function declarations, typedefs etc.
 
 
