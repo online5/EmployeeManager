@@ -1,4 +1,4 @@
-# EmployeeManager
+# Employee Manager
 
 Details about the project Employee Management System.
 Made by Deepak Patil
