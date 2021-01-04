@@ -22,9 +22,9 @@ Password: Online121
 Description:
   This project uses the concept of linear data structure (Doubly circular linked list) to
   store the information about employees.
-  I chose Doubly circular list to to ease the access the nodes(Individual Employee details) in and
+  I chose Doubly circular list to ease the access the nodes(Individual Employee details) in an
   efficent manner and also to facilitate periodic access.
-  We can also traverse the records in bidirectional manner to improve the execution speed of out application.
+  We can traverse the records in bidirectional manner to improve the execution speed of our application.
   This is achieved via maintaning two pointer at each end that is starting as well as ending and travering the linked list both direction.
   Employee details like Name, Age, ID, Salary, Experience.. are stored.
 
